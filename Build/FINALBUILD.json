@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Assignment5B_FINALEXAM",
+"productVersion": "0.1",
+"dataUrl": "FINALBUILD.data.unityweb",
+"wasmCodeUrl": "FINALBUILD.wasm.code.unityweb",
+"wasmFrameworkUrl": "FINALBUILD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "FINALBUILD.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
